@@ -1,5 +1,5 @@
 # SRG-Base
-Software I wrote for internship on my extra time.  Ultimately was not deployed as it was the office manager did not feel that it was in the scope of the project
+Software I wrote for internship on my extra time.  
 
 It is meant to work with a database connected to HotDocs.
 Briefly explained, HotDocs has a functionality where it remembers previous sessions by storing the user inputs in individual XML files.  This is practical but combursome if a user wants to load a previous session.
